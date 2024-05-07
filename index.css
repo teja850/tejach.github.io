@@ -1,0 +1,51 @@
+body{
+    background-color: rgb(189, 234, 219);
+}
+#photo{
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background:linear-gradient(to right,rgb(189, 234, 219),rgb(141, 200, 235));;
+}
+th, td {
+    padding:30px;
+    text-align: left;
+}
+button{
+    border-radius: 20%;
+    height: 100%;
+    background: rgb(189, 234, 219);
+    border-color:rgb(141, 200, 235);
+    border-bottom:rgb(141, 200, 235);
+    border-right:rgb(141, 200, 235);
+    font-size:20px;
+}
+#subbutton{
+    border-radius: 20%;
+    height: 20px;
+    width: 20px;
+    background: rgb(189, 234, 219);
+    border-color:rgb(141, 200, 235);
+    border-bottom:rgb(141, 200, 235);
+    border-right:rgb(141, 200, 235);
+    font-size:20px;
+}
+.skills{
+    width: 20%;
+        border-collapse: collapse;
+        background:linear-gradient(to right,rgb(229, 246, 202),rgb(166, 211, 238));
+        font-size: 18px;
+    }
+#skillphoto{
+        height: 20px;
+        width: 20px;
+        border-radius: 50%;
+    }
+#internphoto{
+        height: 300px;
+        width: 400px;
+    }
