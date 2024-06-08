@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(189, 234, 219);
+    background-color: rgb(236, 241, 240);
 }
 #photo{
     height: 250px;
@@ -9,7 +9,7 @@ body{
 table {
     width: 100%;
     border-collapse: collapse;
-    background:linear-gradient(to right,rgb(189, 234, 219),rgb(141, 200, 235));;
+    background:linear-gradient(to right,rgb(222, 236, 231),rgb(203, 224, 236));;
 }
 th, td {
     padding:30px;
@@ -18,8 +18,8 @@ th, td {
 button{
     border-radius: 20%;
     height: 100%;
-    background: rgb(189, 234, 219);
-    border-color:rgb(141, 200, 235);
+    background: rgb(239, 244, 242);
+    border-color:rgb(237, 240, 241);
     border-bottom:rgb(141, 200, 235);
     border-right:rgb(141, 200, 235);
     font-size:20px;
@@ -28,16 +28,16 @@ button{
     border-radius: 20%;
     height: 20px;
     width: 20px;
-    background: rgb(189, 234, 219);
-    border-color:rgb(141, 200, 235);
-    border-bottom:rgb(141, 200, 235);
-    border-right:rgb(141, 200, 235);
+    background: rgb(226, 233, 230);
+    border-color:rgb(233, 243, 248);
+    border-bottom:rgb(231, 237, 240);
+    border-right:rgb(215, 228, 235);
     font-size:20px;
 }
 .skills{
     width: 20%;
         border-collapse: collapse;
-        background:linear-gradient(to right,rgb(229, 246, 202),rgb(166, 211, 238));
+        background:linear-gradient(to right,rgb(243, 244, 243),rgb(223, 233, 239));
         font-size: 18px;
     }
 #skillphoto{
