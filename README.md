@@ -1,4 +1,4 @@
-# MohithAllu.github.io
+# tejach.github.io
 <html>
     <head>
         <title>Mohith Allu</title>
